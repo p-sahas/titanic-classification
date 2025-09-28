@@ -41,3 +41,6 @@ matplotlib==3.5.1
 seaborn==0.11.2
 xgboost==1.5.0
 ```
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
